@@ -1,19 +1,19 @@
 <!--
 **amodolo/amodolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### Hi there 👋, I'm Alessandro Modolo
+### Hi there 👋, I'm Alessandro
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/alessandro-modolo)
 [![Mail Badge](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=mail.ru&logoColor=white)](mailto:alessandro.modolo.1988@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/alessandro_modolo)
 
-Welcome to my repo. My name is Alessandro, I'm Software Architect with more than 10 year of experience on JavaEE stack. I'm passionate about back-end technologies (not only Java 🤓)
+Welcome to my repo. My name is Alessandro, I'm a software staff eng with more than 10 years of experience on the JavaEE stack. I'm passionate about back-end technologies (not only Java 🤓)
 
 Solving problems and finding patterns to do it in the best way possible, that's what I really ❤️ to do.
 
 ### About me
 - 🔭 When I can, I enjoy studying and experimenting with new techniques/frameworks within my side projects
-- 🌱 I’m currently learning React and Micro-frontends
+- 🌱 I’m currently learning blockchain and related technologies
 - ⛰️ I spend the rest of my time with my daughter trying to pass on my passion for mountains and climbing
 
 ### Languages and Tools:
