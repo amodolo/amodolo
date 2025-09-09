@@ -11,11 +11,6 @@ Welcome to my repo. My name is Alessandro, I'm a software staff eng with more th
 
 Solving problems and finding patterns to do it in the best way possible, that's what I really ❤️ to do.
 
-### About me
-- 🔭 When I can, I enjoy studying and experimenting with new techniques/frameworks within my side projects
-- 🌱 I’m currently learning blockchain and related technologies
-- ⛰️ I spend the rest of my time with my daughter trying to pass on my passion for mountains and climbing
-
 ### Languages and Tools:
 <p>
     <img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
